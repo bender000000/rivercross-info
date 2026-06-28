@@ -12,8 +12,8 @@ export default function RootLayout({ children }) {
         {children}
         <Script
           defer
-          src="https://cloud.umami.is/script.js"
-          data-website-id="3f4d592c-5249-45b8-be28-8282afc1be99"
+          src="https://eyes.anxpl.com/script.js"
+          data-website-id="102769c3-2278-42cb-8f7d-5fe7c824c2c9"
           strategy="afterInteractive"
         />
       </body>
